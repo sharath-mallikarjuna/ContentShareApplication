@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "browser-image-compression": "^1.0.12",
     "devextreme": "20.1-stable",
     "devextreme-react": "20.1-stable",
